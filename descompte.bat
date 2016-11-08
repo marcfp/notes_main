@@ -1,0 +1,1 @@
+C:\Python34\python.exe C:\Python34\descompte_acumulat_taula\notes.py

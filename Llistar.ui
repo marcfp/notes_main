@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Llista</class>
+ <widget class="QDialog" name="Llista">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>656</width>
+    <height>573</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="pB_tancar">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>490</y>
+     <width>83</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Tornar</string>
+   </property>
+  </widget>
+  <widget class="QTableView" name="LLista">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>10</y>
+     <width>591</width>
+     <height>360</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>591</width>
+     <height>192</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>591</width>
+     <height>360</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pB_modificar">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>400</y>
+     <width>83</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Tornar</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
